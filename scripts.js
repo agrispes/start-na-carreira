@@ -3,7 +3,9 @@ event.preventDeFault();
 let bill = document.getElementById("bill").Value;
 let serviceQual = document.getElementById("serviceQual").Value;
 let numOfPeople = document.getElementById("people").Value;
-
+if (bill =='' ser) {
+    
+}
 
 }
 
